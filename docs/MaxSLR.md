@@ -2,7 +2,6 @@
 title: Max SLR
 nav_order: 3
 ---
-
 # Max Sea Level Rise
 
 ## Max SLR max implications for long-term urbanism
